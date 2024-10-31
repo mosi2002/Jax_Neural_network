@@ -14,3 +14,14 @@ $$
 
 ## Result
 
+the loss is 8.559e-04.
+
+
+![image](https://github.com/user-attachments/assets/349c47c8-d1f4-499e-a884-8e662099959d)
+
+for t = 0.9:
+
+![image](https://github.com/user-attachments/assets/5d313c60-edef-4fa2-98d3-64674e400266)
+
+
+
